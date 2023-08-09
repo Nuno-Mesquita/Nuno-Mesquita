@@ -7,8 +7,8 @@
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Nuno-Mesquita">
-    <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=Nuno-Mesquita&show_icons=true&theme=tokyonight&include_all_comits=true&count_private=true"/>
-    <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuno-Mesquita&layout=compact&langs_count=16&theme=tokyonight"/>
+    <img height = "180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nuno-Mesquita&show_icons=true&theme=tokyonight&include_all_comits=true&count_private=true"/>
+    <img height = "180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nuno-Mesquita&layout=compact&langs_count=16&theme=tokyonight"/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
   </div>
 
